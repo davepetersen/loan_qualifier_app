@@ -1,6 +1,6 @@
 # Loan Qualifier App
 
-The following is a python CLI application that allows users to see qualifying loans from lenders quickly and easily. The application works by taking in a daily_rate_sheet of loan criteria from various loan providers, asking the customer questions to evaluate their loan eligibility, and then returning a list of qualifying loans.
+The following is a python CLI application that allows users to see qualifying loans from lenders quickly and easily. The application works by taking in a 'daily_rate_sheet' of loan criteria from various loan providers, asking the customer questions to evaluate their loan eligibility, and then returning a list of qualifying loans.
 
 ---
 
