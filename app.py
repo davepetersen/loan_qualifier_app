@@ -114,7 +114,7 @@ def save_qualifying_loans(qualifying_loans):
     csvpath = Path('../loan_qualifier_app/data/Qualifying_Loans.csv')
     if not csvpath.exists():
         sys.exit(f"This path does not exist!!! {csvpath}")
-    save_csv = save_csv(csvpath=csvpath, data=qualifying_loans)
+    saved_csv = save_csv(csvpath=csvpath, data=qualifying_loans)
 
 def run():
     """The main function for running the script."""
@@ -136,3 +136,16 @@ def run():
 
 if __name__ == "__main__":
     fire.Fire(run)
+
+
+
+
+# run python app.py from the terminal
+
+# when asked for file path enter
+
+# ./data/daily_rate_sheet.csv
+
+# Then for save file enter the following file path
+
+# /loan_qualifier_app/data/Qualifying_loans.csv')
