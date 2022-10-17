@@ -1,0 +1,872 @@
+   50  conda create -n dev python=3.7
+   51  conda activate dev
+   52  conda init zsh
+   53  echo #{SHELL}
+   54  echo #{SHELL}
+   55  echo {SHELL}
+   56  echo #{SHELL}
+   57  conda init zsh
+   58  conda activate dev
+   59  conda init zsh
+   60  echo #{SHELL}
+   61  python -m ipykernal install--user --name dev
+   62  python -m ipykernel install --user --name dev
+   63  python -m ipykernel install--user --name dev
+   64  ls -al ~/.ssh
+   65  conda --version
+   66  conda update conda
+   67  conda create -n dev python=3.7anaconda
+   68  conda activate dev
+   69  echo #{SHELL}
+   70  conda init zsh
+   71  echo #{SHELL}
+   72  conda activate dev
+   73  conda info --envs
+   74  conda create -n dev python=3.7 anaconda
+   75  conda activate dev
+   76  conda init zsh
+   77  echo #{SHELL}
+   78  python -m ipykernel install --user --name dev
+   79  conda install -c conda-forge nodejs
+   80  conda deactivate
+   81  ls
+   82  pwd
+   83  open
+   84  cd Desktop
+   85  mkdir test
+   86  touch sample.txt
+   87  cd test
+   88  ls
+   89  cd ..
+   90  mv sample.txt test
+   91  cd test
+   92  ls
+   93  cd
+   94  /git
+   95  mkdir git
+   96  pwd
+   97  cd
+   98  cd Desktop
+   99  mkdir git
+  100  cd git
+  101  git clone git@github.com:davepetersen/codingdemo.git
+  102  open .
+  103  cd codingdemo/
+  104  ls
+  105  git add -A
+  106  git add
+  107  git add .
+  108  git add -A
+  109  git commit -m "Added an index.html file"
+  110  git push orgin main
+  111  git push origin main
+  112  cd
+  113  cd codingdemo
+  114  cd git
+  115  cd codingdemo
+  116  cd codingdemo
+  117  cd
+  118  cd ..
+  119  cd git
+  120  cd ~
+  121  cd git
+  122  cd ..
+  123  cd codingdemo/
+  124  open .
+  125  cd git
+  126  open .
+  127  open .
+  128  cd codingdemo
+  129  cd desktop
+  130  cd
+  131  cd Desktop
+  132  cd git
+  133  cd codingdemo
+  134  open .
+  135  cd Desktop
+  136  cd git
+  137  cd codingdemo
+  138  ls
+  139  git checkout -b header
+  140  git add -A
+  141  git commit -m "Added a header to index.html"
+  142  git push orgin header
+  143  git push origin header
+  144  git checkout master
+  145  git checkout main
+  146  git pull
+  147  cd
+  148  conda activate dev
+  149  jupyter lab
+  150  conda deactivate
+  151  conda activate dev
+  152  jupyter lab
+  153  conda deactivate
+  154  conda activate dev
+  155  conda init zsh
+  156  conda deactivate dev
+  157  conda deactivate dev
+  158  conda deactivate
+  159  printenv > /var/folders/tm/f38tw8b956xbhw0766jknhx40000gn/T/tmp-35450zZRov3sptOeqtxt
+  160  pwd
+  161  ls
+  162  cd git
+  163  ls
+  164  cd Desktop
+  165   cd
+  166  cd Desktop
+  167  ls
+  168  mkdir FinTech_Workspace
+  169  cd FinTech_Workspace
+  170  ls
+  171  cd ..
+  172  cd FinTech_Workspace
+  173  ls
+  174  cd Python_Project
+  175  ls
+  176  conda activate dev
+  177  python --version
+  178  code .
+  179  python hello_python.py
+  180  conda deactivate
+  181  conda activate dev
+  182  conda deactivate
+  183  cd desktop
+  184  ls
+  185  cd FinTech_Workspace
+  186  ls
+  187  cd Python_Project
+  188  ls
+  189  conda activate dev
+  190  python M1L3.py
+  191  python M1L3.py
+  192  python M1L3.py
+  193  python M1L3.py
+  194  python hello_variable_world.py
+  195  python hello_variable_world.py
+  196  python hello_variable_world.py
+  197  python hello_variable_world.py
+  198  ls
+  199  python  hello_variable_world.py
+  200  cd FinTech_Workspace
+  201  cd ..
+  202  ls
+  203  cd hello_variable_world.py
+  204  python hello_variable_world.py
+  205  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/hello_variable_world.py
+  206  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/hello_variable_world.py
+  207  /usr/bin/python3 /Users/dave/Downloads/01_Hello_Variable_World/Solved/hello_variable_world.py
+  208  /usr/bin/python3 /Users/dave/Downloads/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  209  ls
+  210  cd Desktop
+  211  ls
+  212  cd FinTech_Workspace
+  213  cd ..
+  214  cd..
+  215  cd ..
+  216  cd Downloads
+  217  ls
+  218  jupyter lab
+  219  cd Desktop
+  220  ls
+  221  cd
+  222  conda activate dev
+  223  jupyter
+  224  -h
+  225  conda deactivate
+  226  jupyter lab
+  227  /usr/bin/python3 "/Users/dave/Desktop/Class_2_Activities 2/06_Ins_Functions/Solved/functions.py"
+  228  cd
+  229  cd Desktop
+  230  cd FinTech_Workspace
+  231  code .
+  232  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/test.py
+  233  conda activate dev
+  234  pip -V
+  235  pip freeze
+  236  pip install fire
+  237  pip install questionary
+  238  deactivate
+  239  conda deactivate
+  240  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  241  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  242  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  243  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  244  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  245  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M2/Class_2_Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Solved/07-functions-01/Solved/functions-01.py
+  246  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M2/Class_2_Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Solved/07-functions-01/Solved/functions-01.py
+  247  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M2/Class_2_Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Solved/09-csv-01/Solved/csv-01.py
+  248  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M2/Class_2_Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Solved/09-csv-01/Solved/csv-01.py
+  249  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M2/Class_2_Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Solved/09-csv-01/Solved/csv-01.py
+  250  cd Desktop
+  251  ls
+  252  cd FinTech_Workspace
+  253  ls 
+  254  cd M2
+  255  ls
+  256  cd Class_2_Activities
+  257  ls
+  258  cd 01_Ins_ATM_Application
+  259  ls
+  260  cd Unsolved
+  261  ls
+  262  cd atm
+  263  ls
+  264  pip installrequirements.txt
+  265  pip install requirements.txt
+  266  pip install -r requirements.txt
+  267  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M2/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  268  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/CU-VIRT-FIN-PT-08-2022-U-B-main/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+  269  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/CU-VIRT-FIN-PT-08-2022-U-B-main/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+  270  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/CU-VIRT-FIN-PT-08-2022-U-B-main/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+  271  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/CU-VIRT-FIN-PT-08-2022-U-B-main/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+  272  activate dev
+  273  activate conda
+  274  conda dev
+  275  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M1/02_Nested_Conditionals/Solved/nested_conditionals.py
+  276  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M1/02_Nested_Conditionals/Solved/nested_conditionals.py
+  277  /usr/bin/python3 /Users/dave/Desktop/FinTech_Workspace/M1/02_Nested_Conditionals/Solved/nested_conditionals.py
+  278  conda activate conda
+  279  run jupyter labs
+  280  jupyter lab
+  281  jupyter lab
+  282  conda activate dev
+  283  jupyter lav
+  284  jupyter lab
+  285  conda activate dev
+  286  jupyter lab
+  287  conda activate dev
+  288  jupyter lab
+  289  conda activate dev
+  290  jupyter lab
+  291  conda deactivate
+  292  conda create -n 
+  293  conda activate dev
+  294  python -m install --upgrade pip
+  295  conda create -n <name_dev> python=3.7 anaconda
+  296  pip install —upgrade Jupyterlab
+  297  conda create
+  298  pip3 install fire
+  299  pip3 install questionary
+  300  pip3 install jupyterlab_tabnine
+  301  pip3 install jupyterlab_tabnine (edited)
+  302  import pandas as pd
+  303  conda deactivate
+  304  conda activate dev
+  305  jupyter lab
+  306  conda activate dev
+  307  jupyter lab
+  308  conda activate dev
+  309  jupyter lab
+  310  conda activate dev
+  311  jupyter lab
+  312  conda activate dev
+  313  jupyter lab
+  314  conda deactivate 
+  315  conda activate dev
+  316  jupyter lab
+  317  conda deactivate
+  318  conda activate dev
+  319  jupyter lab
+  320  conda deactivate
+  321  conda activate dev
+  322  jupyter lab
+  323  conda deactivate dev
+  324  conda deactivate
+  325  conda activate dev
+  326  jupyter lab
+  327  conda deactivate
+  328  pwd
+  329  ls
+  330  cd
+  331  cd Desktop
+  332  ls
+  333  cd FinTech_Workspace
+  334  cd ..
+  335  conda activate dev
+  336  pyton --version
+  337  python --version
+  338  code .
+  339  jupyter lab
+  340  python test.py
+  341  conda
+  342  conda deactivate
+  343  /usr/bin/python3 /Users/dave/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  344  /usr/bin/python3 /Users/dave/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  345  /usr/bin/python3 /Users/dave/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  346  /usr/bin/python3 /Users/dave/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  347  conda activate dev
+  348  jupyter lab
+  349  conda deactivate
+  350  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  351  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  352  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  353  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  354  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  355  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  356  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  357  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  358  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  359  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  360  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  361  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  362  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  363  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  364  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  365  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  366  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  367  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  368  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  369  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  370  conda activate dev
+  371  jupyter lab
+  372  jupyter lab
+  373  conda deactivate
+  374  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  375  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  376  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  377  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  378  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  379  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  380  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  381  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  382  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  383  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  384  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  385  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  386  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  387  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  388  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  389  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  390  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  391  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  392  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  393  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  394  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  395  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  396  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  397  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  398  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  399  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  400  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  401  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  402  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  403  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  404  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  405  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  406  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  407  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  408  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  409  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  410  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  411  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  412  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  413  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  414  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  415  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  416  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  417  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  418  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  419  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  420  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  421  conda activate dev
+  422  jupyter lab
+  423  conda deactivate dev
+  424  conda deactivate
+  425  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  426  conda activate dev
+  427  jupyter lab
+  428  conda activate dev
+  429  jupyter lab
+  430  conda deactivate
+  431  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  432  /usr/bin/python3 "/Users/dave/Desktop/FinTech_Workspace/Challenges/Module 1/Starter_Code/GitHub_Upload/loan_analyzer.py"
+  433  conda activate base
+  434  jupyter lab
+  435  conda deactivate
+  436  $ git checkout -b Dave
+  437  conda activate dev
+  438  $ git checkout -b Dave
+  439  $ git
+  440  $ ssh -T git@github.com
+  441  $ ssh -T git@github.com
+  442  conda deactivate
+  443  $ ssh -T git@github.com
+  444  ls -al ~/.ssh
+  445  ssh -T git@github.com
+  446  git pull
+  447  git config --global user.name Dave Petersen
+  448  git config --global user.email david.c.petersen@gmail.com
+  449  git config --list
+  450  cd
+  451  ..
+  452  conda activate dev
+  453  cd
+  454  ls
+  455  cd Desktop
+  456  ls
+  457  cd Test_Repo
+  458  git clone https://github.com/davepetersen/Test_Repo.git
+  459  pwd
+  460  git status
+  461  ls
+  462  cd Test_Repo
+  463  ls
+  464  git status
+  465  git add README.md
+  466  git status
+  467  touch new_file.txt
+  468  ls
+  469  git status
+  470  git add new_file.txt
+  471  git status
+  472  git commit -m "edited readme and added new text file"
+  473  git status
+  474  git push
+  475  git status
+  476  git push
+  477  git push
+  478  git push
+  479  git push
+  480  git status
+  481  cd
+  482  ls
+  483  cd Desktop
+  484  ls
+  485  ls
+  486  ls
+  487  cd Group_Project_1
+  488  git clone https://github.com/aisrael17/pure-momentum.git
+  489  ls
+  490  cd pure-momentum
+  491  ls
+  492  git pull
+  493  git checkout -b Dave
+  494  git push orgin Dave
+  495  git push origin Dave
+  496  cd
+  497  ls
+  498  cd Desktop
+  499  ls
+  500  cd Group_Project_1
+  501  git clone https://github.com/aisrael17/pure-momentum.git
+  502  git status
+  503  ls
+  504  cd pure-momentum
+  505  git clone https://github.com/aisrael17/pure-momentum.git
+  506  git status
+  507  conda activate dev
+  508  jupyter lab
+  509  conda deactivate
+  510  ls
+  511  cd Desktop
+  512  cd Group_Project_1
+  513  ls
+  514  cd pure-momentum
+  515  git pull
+  516  git status
+  517  git branch -a
+  518  git pull pure-momentum
+  519  git pull
+  520  git pull pure-momentum main
+  521  git status
+  522  git fetch --all
+  523  git status
+  524  git add -A
+  525  git branch -a
+  526  git checkout Dave
+  527  git merge origin/master
+  528  get fetch origin
+  529  ls
+  530  cd pure-momentum
+  531  ls
+  532  git fetch
+  533  git status
+  534  ls
+  535  git merge
+  536  git status
+  537  conda activate dev
+  538  jupyter lab
+  539  conda deactivate
+  540  ls
+  541  cd Desktop
+  542  ls
+  543  cd Group_Project_1
+  544  ls
+  545  cd pure-momentum
+  546  cd pure-momentum
+  547  ls
+  548  git fetch
+  549  git branch
+  550  git status
+  551  conda activate dev
+  552  jupyter lab
+  553  conda deactivate
+  554  ls
+  555  git pull
+  556  git stash
+  557  ls
+  558  jupyter lab
+  559  ls
+  560  git pull
+  561  ls
+  562  conda activate dev
+  563  jupyter lab
+  564  conda deactivate
+  565  cd
+  566  cd Desktop
+  567  ls
+  568  cd Group_P{roject_1
+  569  cd Group_Project_1
+  570  ls
+  571  cd pure-momentum
+  572  ls -la
+  573  ls
+  574  ls
+  575  cd Desktop
+  576  cd Group_Project_1
+  577  ls
+  578  cd pure-momentum
+  579  ls
+  580  git fetch
+  581  git stash
+  582  git pull
+  583  git status
+  584  ls
+  585  cd
+  586  cd Desktop
+  587  mkdir Group_Project_1
+  588  cd  Group_Project_1
+  589  git config --user.name davepetersen
+  590  git config list
+  591  cd
+  592  git config list
+  593  git config --global user.name Dave Petersen
+  594  git config --global user.email david.c.petersen@gmail.com
+  595  git config --list
+  596  cd Desktop
+  597  cd Group_Project_1
+  598  git clone https://github.com/aisrael17/pure-momentum.git
+  599  ls
+  600  cd pure-momentum
+  601  ls
+  602  cd notebooks
+  603  ls
+  604  cd
+  605  conda activate dev
+  606  jupyter lab
+  607  ls
+  608  cd Desktop
+  609  ls
+  610  cd Group_Project_1
+  611  ls
+  612  cd pure-momentum
+  613  git status
+  614  git restore notebooks/model.ipynb
+  615  git status
+  616  git status
+  617  git add notebooks/model2.ipynb
+  618  git status
+  619  git checkout
+  620  git checkout other-branch
+  621  git checkout Dave-branch
+  622  git checkout Dave
+  623  git status
+  624  git commit -m "first draft btc"
+  625  git status
+  626  git push
+  627  git status
+  628  conda activate dev
+  629  jupyter lab
+  630  conda deactivate
+  631  git status
+  632  git commit -a
+  633  cd Desktop
+  634  cd Group_Project_1
+  635  ls
+  636  cd pure-momentum
+  637  ls
+  638  git status
+  639  git stash
+  640  git change branch
+  641  git status
+  642  git checkout main
+  643  git checkout Dave
+  644  git status
+  645  git commit -m "fixed a typo"
+  646  ls
+  647  conda activate dev
+  648  jupyter lab
+  649  git status
+  650  ls
+  651  git stash pop
+  652  git status
+  653  git commit -m "fixed a typo"
+  654  git add notebooks/model2.ipynb
+  655  git status
+  656  git commit -m "Fixed a typo"
+  657  git status
+  658  git push
+  659  git status
+  660  cd Desktop
+  661  cd Group_Project_1
+  662  ls
+  663  cd pure-momentum
+  664  ls
+  665  git checkout main
+  666  git status
+  667  conda activate dev
+  668  jupyter lab
+  669  cd Desktop
+  670  cd
+  671  cd Desktop
+  672  jupyter lab
+  673  pip install plotly==5.10.0
+  674  jupyter --version
+  675  ipywidgets --version
+  676  pip install "ipywidgets>=7.6"
+  677  pip install jupyter-dash
+  678  conda deactivate
+  679  git status
+  680  cd Desktop
+  681  cd Group_Project_1
+  682  ls
+  683  cd pure-momentum
+  684  git status
+  685  git fetch
+  686  cd
+  687  cd Desktop
+  688  cd Challenge 2
+  689  ls
+  690  ls
+  691  cd Module_2_Challeng
+  692  cd Module_2_Challenge
+  693  ls
+  694  git clone https://github.com/davepetersen/loan_qualifier_app.git
+  695  git status
+  696  ls
+  697  cd loan_qualifier_app
+  698  git status
+  699  git commit
+  700  git commit -a
+  701  cd Desktop
+  702  cd Module_2_Challenge
+  703  ls
+  704  cd loan_qualifier_app
+  705  git status
+  706  git add --all
+  707  git status
+  708  git commit -m "Added starter code"
+  709  git status
+  710  git push
+  711  git rm --cached .DS_Store
+  712  git status
+  713  git commit -m "Removed .DS_Store file\n"
+  714  git status
+  715  git commit -m "Removed .DS_Store file"
+  716  git push
+  717  conda activate dev
+  718  jupyter lab
+  719  run python app.py
+  720  ls
+  721  run app.py
+  722  conda deactivate
+  723  run app.py
+  724  python app.py
+  725  python
+  726  cd
+  727  conda activate dev
+  728  python
+  729  cd Desktop
+  730  ls
+  731  cd Module_2_Challenge
+  732  ls
+  733  cd loan_qualifier_app
+  734  conda activate dev
+  735  python app.py
+  736  cd Desktop
+  737  ls
+  738  cd Module_2_Challenge
+  739  ls
+  740  cd loan_qualifier_app
+  741  cond activate dev
+  742  conda activate dev
+  743  python app.py
+  744  pip install fire
+  745  pip install questionary
+  746  conda activate dev
+  747  pip show fire
+  748  conda list fire
+  749  pip show questionary
+  750  conda deactivate
+  751  /usr/bin/python3 /Users/dave/Desktop/Module_2_Challenge/loan_qualifier_app/app.py
+  752  cd Desktop
+  753  ls
+  754  cd Module_2_Challenge
+  755  ls
+  756  cd loan_qualifier_app
+  757  cond activate dev
+  758  conda activate dev
+  759  ls
+  760  ls
+  761  python app.py
+  762  pip install csv
+  763  /Users/dave/Desktop/Module_2_Challenge/loan_qualifier_app/app.py
+  764  conda activate dev
+  765  '/Users/dave/Desktop/Module_2_Challenge/loan_qualifier_app/app.py'
+  766  conda activate dev
+  767  cd Desktop
+  768  ls
+  769  cd Module_2_Challenge
+  770  ls
+  771  cd loan_qualifier_app
+  772  ls
+  773  python app.py
+  774  python app.py
+  775  conda activate dev
+  776  cd Desktop
+  777  ls
+  778  cd Module_2_Challenge
+  779  ls
+  780  cd Module_2_Challenge
+  781  cd loan_qualifier_app
+  782  ls
+  783  python app.py
+  784  python app.py
+  785  python app.py
+  786  conda deactivate
+  787  python app.py
+  788  /Users/dave/Desktop/Module_2_Challenge/loan_qualifier_app/app.py
+  789  cd Desktop
+  790  ls
+  791  cd Module_2_Challenge
+  792  ls
+  793  cd loan_qualifier_app
+  794  ls
+  795  python app.py
+  796  python app.py
+  797  cd
+  798  pip install fire
+  799  pip install questionary
+  800  run python --version
+  801  python -V
+  802  cd Desktop
+  803  git clone https://github.com/mbfm24/Loan-Qualifier-Application.git
+  804  ls
+  805  cd Loan-Qualifier-Application\n
+  806  python app.py
+  807  ls
+  808  cd Loan_Qualifier_App
+  809  ls
+  810  python app.py
+  811  conda activate dev
+  812  cd Desktop
+  813  ls
+  814  cd Module_2_Challenge
+  815  ls
+  816  cd loan_qualifier_app
+  817  ls
+  818  python app.py
+  819  cd Desktop
+  820  conda activate dev
+  821  ls
+  822  cd Module_2_Challenge
+  823  ls
+  824  cd loan_qualifier_app
+  825  ls
+  826  python app.py
+  827  conda activate dev
+  828  cd Desktop
+  829  ls
+  830  cd Module_2_Challenge
+  831  ls
+  832  cd loan_qualifier_app
+  833  ls
+  834  python app.py
+  835  cd Desktop
+  836  ls
+  837  cd Module_2_Challenge
+  838  ls
+  839  cd loan_qualifier_app
+  840  ls
+  841  python app.py
+  842  cd Desktop
+  843  ls
+  844  cd Loan-Qualifier-Application-main
+  845  ls
+  846  cd Loan_Qualifier_App
+  847  ls
+  848  python app.py
+  849  cd Desktop
+  850  ls
+  851  cd Loan-Qualifier-Application-main
+  852  ls
+  853  cd Loan_Qualifier_App
+  854  ls
+  855  python app.py
+  856  cd Desktop
+  857  ls
+  858  cd Module_2_Challenge
+  859  ls
+  860  cd loan_qualifier_app
+  861  ls
+  862  python app.py
+  863  cd Desktop
+  864  ls
+  865  cd Module_2_Challenge
+  866  ls
+  867  cd loan_qualifier_app
+  868  git status
+  869  git add README.md
+  870  git add app.py
+  871  git add qualifier/utils/fileio.py
+  872  git status
+  873  git rm --cached .DS_Store
+  874  echo .DS_Store >> ~/gitignore_global
+  875  git config --global core.excludesfile ~/.gitignore_global
+  876  git status
+  877  git commit -m "Updating Code and README"
+  878  git push
+  879  git status
+  880  git status
+  881  git add README.md
+  882  git add data/Qualifying_Loans.csv
+  883  git commit -m "Formatting and added Qualifying_Loans.csv"
+  884  push
+  885  git push
+  886  git status
+  887  conda activate dev
+  888  cd Desktop
+  889  ls
+  890  cd Module_2_Challenge
+  891  ls
+  892  cd loan_qualifier_app
+  893  ls
+  894  python app.py
+  895  ls
+  896  cd data
+  897  ls
+  898  cd loan_qualifier_app
+  899  cd -
+  900  ls
+  901  python app.py
+  902  python app.py
+  903  python app.py
+  904  cd Desktop
+  905  ls
+  906  cd Module_2_Challenge
+  907  ls
+  908  cd loan_qualifier_app
+  909  ls
+  910  git status
+  911  git add app.py
+  912  git add data/Qualifying_Loans.csv
+  913  git status
+  914  git commit -m "Refined app code"
+  915  git status
+  916  git push
+  917  git status
+  918  git add README.md
+  919  git commit -m "Formatting for README"
+  920  git push
+  921  git status
